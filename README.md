@@ -23,7 +23,7 @@ src/
 ```
 
 ## AzureDeploy link
-[BackEnd Azure Deploy Link](collaborativeboardback-bnfhdmf3azd9c2cd.eastus2-01.azurewebsites.net)
+[FrontEnd Azure Deploy Link](collaborativeboardfront-dba4g4cjfjgkgbfr.eastus2-01.azurewebsites.net)
 
 ## Architecture Overview
 
